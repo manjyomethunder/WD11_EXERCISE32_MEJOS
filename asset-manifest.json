@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WD11_EXERCISE32_MEJOS/static/css/main.af765ba7.css",
-    "main.js": "/WD11_EXERCISE32_MEJOS/static/js/main.ee4a0457.js",
+    "main.js": "/WD11_EXERCISE32_MEJOS/static/js/main.2636ad92.js",
     "static/js/787.c31c1c2d.chunk.js": "/WD11_EXERCISE32_MEJOS/static/js/787.c31c1c2d.chunk.js",
     "static/media/hxh01.png": "/WD11_EXERCISE32_MEJOS/static/media/hxh01.ea14b202008b6e2287a1.png",
     "static/media/haikyu01.png": "/WD11_EXERCISE32_MEJOS/static/media/haikyu01.93817bcfd173bd0182a1.png",
@@ -69,11 +69,11 @@
     "static/media/deathnote05.jpg": "/WD11_EXERCISE32_MEJOS/static/media/deathnote05.295d11492a93b33db290.jpg",
     "index.html": "/WD11_EXERCISE32_MEJOS/index.html",
     "main.af765ba7.css.map": "/WD11_EXERCISE32_MEJOS/static/css/main.af765ba7.css.map",
-    "main.ee4a0457.js.map": "/WD11_EXERCISE32_MEJOS/static/js/main.ee4a0457.js.map",
+    "main.2636ad92.js.map": "/WD11_EXERCISE32_MEJOS/static/js/main.2636ad92.js.map",
     "787.c31c1c2d.chunk.js.map": "/WD11_EXERCISE32_MEJOS/static/js/787.c31c1c2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af765ba7.css",
-    "static/js/main.ee4a0457.js"
+    "static/js/main.2636ad92.js"
   ]
 }
